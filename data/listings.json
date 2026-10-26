@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "jh-library",
+    "name": "Queens Public Library at Jackson Heights",
+    "type": "study",
+    "address": "35-51 81 Street, Jackson Heights, NY 11372",
+    "lat": 40.7511,
+    "lng": -73.8856,
+    "neighborhood": "Jackson Heights",
+    "cost": 0,
+    "costText": "Free",
+    "hours": {
+      "mon": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "12:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ],
+      "sun": [
+        [
+          "12:00",
+          "17:00"
+        ]
+      ]
+    },
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "eligibility": null,
+    "join": "Walk in",
+    "contact": {
+      "phone": "718-899-2500",
+      "email": null,
+      "web": "https://www.queenslibrary.org/about-us/locations/jackson-heights"
+    },
+    "tags": [
+      "quiet",
+      "wifi",
+      "study"
+    ],
+    "sourceUrl": "https://www.queenslibrary.org/about-us/locations/jackson-heights",
+    "lastChecked": "2026-10-25",
+    "sample": false,
+    "whenText": null
+  },
+  {
+    "id": "elm-library",
+    "name": "Queens Public Library at Elmhurst",
+    "type": "study",
+    "address": "86-07 Broadway, Elmhurst, NY 11373",
+    "lat": 40.7383,
+    "lng": -73.8778,
+    "neighborhood": "Elmhurst",
+    "cost": 0,
+    "costText": "Free",
+    "hours": {
+      "mon": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "12:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "eligibility": null,
+    "join": "Walk in",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "web": "https://www.queenslibrary.org/about-us/locations/elmhurst"
+    },
+    "tags": [
+      "quiet",
+      "wifi",
+      "study rooms"
+    ],
+    "sourceUrl": "https://www.queenslibrary.org/about-us/locations/elmhurst",
+    "lastChecked": "2026-10-25",
+    "sample": false,
+    "whenText": null
+  },
+  {
+    "id": "cor-library",
+    "name": "Queens Public Library at Corona",
+    "type": "study",
+    "address": "38-23 104 Street, Corona, NY 11368",
+    "lat": 40.7497,
+    "lng": -73.8625,
+    "neighborhood": "Corona",
+    "cost": 0,
+    "costText": "Free",
+    "hours": {
+      "mon": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "12:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "eligibility": null,
+    "join": "Walk in",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "web": "https://www.queenslibrary.org/about-us/locations/corona"
+    },
+    "tags": [
+      "quiet",
+      "wifi"
+    ],
+    "sourceUrl": "https://www.queenslibrary.org/about-us/locations/corona",
+    "lastChecked": "2026-10-25",
+    "sample": false,
+    "whenText": null
+  },
+  {
+    "id": "lh-library",
+    "name": "Queens Public Library at Langston Hughes",
+    "type": "study",
+    "address": "100-01 Northern Boulevard, Corona, NY 11368",
+    "lat": 40.7577,
+    "lng": -73.8673,
+    "neighborhood": "Corona",
+    "cost": 0,
+    "costText": "Free",
+    "hours": {
+      "mon": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "12:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "eligibility": null,
+    "join": "Walk in",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "web": "https://www.queenslibrary.org/about-us/locations/langston-hughes"
+    },
+    "tags": [
+      "quiet",
+      "wifi"
+    ],
+    "sourceUrl": "https://www.queenslibrary.org/about-us/locations/langston-hughes",
+    "lastChecked": "2026-10-25",
+    "sample": false,
+    "whenText": null
+  },
+  {
+    "id": "ee-library",
+    "name": "Queens Public Library at East Elmhurst",
+    "type": "study",
+    "address": "95-06 Astoria Boulevard, East Elmhurst, NY 11369",
+    "lat": 40.7615,
+    "lng": -73.8715,
+    "neighborhood": "East Elmhurst",
+    "cost": 0,
+    "costText": "Free",
+    "hours": {
+      "mon": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "12:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "eligibility": null,
+    "join": "Walk in",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "web": "https://www.queenslibrary.org/about-us/locations/east-elmhurst"
+    },
+    "tags": [
+      "quiet"
+    ],
+    "sourceUrl": "https://www.queenslibrary.org/about-us/locations/east-elmhurst",
+    "lastChecked": "2026-10-25",
+    "sample": false,
+    "whenText": null
+  },
+  {
+    "eligibility": null,
+    "join": "Walk in",
+    "contact": {
+      "phone": "718-429-4700",
+      "email": null,
+      "web": "https://www.queenslibrary.org/about-us/locations/woodside"
+    },
+    "tags": [
+      "quiet",
+      "wifi",
+      "study"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "cost": 0,
+    "costText": "Free",
+    "hours": {
+      "mon": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "12:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    "id": "woodside-library",
+    "name": "Queens Public Library at Woodside",
+    "type": "study",
+    "address": "54-22 Skillman Avenue, Woodside, NY 11377",
+    "lat": 40.74535,
+    "lng": -73.90978,
+    "neighborhood": "Woodside",
+    "sourceUrl": "https://www.queenslibrary.org/about-us/locations/woodside",
+    "whenText": null
+  },
+  {
+    "eligibility": null,
+    "join": "Walk in",
+    "contact": {
+      "phone": "718-661-1200",
+      "email": null,
+      "web": "https://www.queenslibrary.org/about-us/locations/flushing"
+    },
+    "tags": [
+      "quiet",
+      "wifi",
+      "study"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "cost": 0,
+    "costText": "Free",
+    "hours": {
+      "sun": [
+        [
+          "12:00",
+          "17:00"
+        ]
+      ],
+      "mon": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ],
+      "tue": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ],
+      "thu": [
+        [
+          "10:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    "id": "flushing-library",
+    "name": "Queens Public Library at Flushing",
+    "type": "study",
+    "address": "41-17 Main Street, Flushing, NY 11355",
+    "lat": 40.75783,
+    "lng": -73.82886,
+    "neighborhood": "Flushing",
+    "sourceUrl": "https://www.queenslibrary.org/about-us/locations/flushing",
+    "whenText": null
+  },
+  {
+    "eligibility": null,
+    "join": "Walk in",
+    "contact": {
+      "phone": "718-721-2462",
+      "email": null,
+      "web": "https://www.queenslibrary.org/about-us/locations/broadway"
+    },
+    "tags": [
+      "quiet",
+      "wifi",
+      "study"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "cost": 0,
+    "costText": "Free",
+    "hours": {
+      "mon": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "12:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    "id": "broadway-library",
+    "name": "Queens Public Library at Broadway",
+    "type": "study",
+    "address": "40-20 Broadway, Astoria, NY 11103",
+    "lat": 40.75854,
+    "lng": -73.91863,
+    "neighborhood": "Astoria",
+    "sourceUrl": "https://www.queenslibrary.org/about-us/locations/broadway",
+    "whenText": null
+  },
+  {
+    "eligibility": null,
+    "join": "Walk in",
+    "contact": {
+      "phone": "718-461-1616",
+      "email": null,
+      "web": "https://www.queenslibrary.org/about-us/locations/mcgoldrick"
+    },
+    "tags": [
+      "quiet",
+      "wifi",
+      "study"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "cost": 0,
+    "costText": "Free",
+    "hours": {
+      "mon": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "12:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    "id": "mcgoldrick-library",
+    "name": "Queens Public Library at McGoldrick",
+    "type": "study",
+    "address": "155-06 Roosevelt Avenue, Flushing, NY 11354",
+    "lat": 40.7638,
+    "lng": -73.80983,
+    "neighborhood": "Flushing",
+    "sourceUrl": "https://www.queenslibrary.org/about-us/locations/mcgoldrick",
+    "whenText": null
+  },
+  {
+    "eligibility": null,
+    "join": "Walk in",
+    "contact": {
+      "phone": "718-352-2027",
+      "email": null,
+      "web": "https://www.queenslibrary.org/about-us/locations/auburndale"
+    },
+    "tags": [
+      "quiet",
+      "wifi",
+      "study"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "cost": 0,
+    "costText": "Free",
+    "hours": {
+      "mon": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "13:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "12:00",
+          "20:00"
+        ]
+      ],
+      "fri": [
+        [
+          "10:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    },
+    "id": "auburndale-library",
+    "name": "Queens Public Library at Auburndale",
+    "type": "study",
+    "address": "25-55 Francis Lewis Boulevard, Flushing, NY 11358",
+    "lat": 40.77377,
+    "lng": -73.79635,
+    "neighborhood": "Auburndale",
+    "sourceUrl": "https://www.queenslibrary.org/about-us/locations/auburndale",
+    "whenText": null
+  },
+  {
+    "eligibility": "Children 12 and under are free. Last entry to the galleries is 4:30 pm.",
+    "join": "Walk in",
+    "contact": {
+      "phone": "718-592-9700",
+      "email": null,
+      "web": "https://queensmuseum.org/visit"
+    },
+    "tags": [
+      "art",
+      "museum",
+      "panorama"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "cost": 0,
+    "costText": "Pay what you wish (suggested $6 for students)",
+    "hours": {
+      "wed": [
+        [
+          "12:00",
+          "17:00"
+        ]
+      ],
+      "thu": [
+        [
+          "12:00",
+          "17:00"
+        ]
+      ],
+      "fri": [
+        [
+          "12:00",
+          "17:00"
+        ]
+      ],
+      "sat": [
+        [
+          "11:00",
+          "17:00"
+        ]
+      ],
+      "sun": [
+        [
+          "11:00",
+          "17:00"
+        ]
+      ]
+    },
+    "id": "queens-museum",
+    "name": "Queens Museum",
+    "type": "explore",
+    "address": "New York City Building, Flushing Meadows Corona Park, Queens, NY 11368",
+    "lat": 40.74587,
+    "lng": -73.84674,
+    "neighborhood": "Corona",
+    "sourceUrl": "https://queensmuseum.org/visit",
+    "whenText": null
+  },
+  {
+    "eligibility": "Reserve ahead. Visitors under 18 must come with an adult. Free entry leaves out mini golf and the 3D theater.",
+    "join": "Reserve a free ticket online",
+    "contact": {
+      "phone": "718-699-0005",
+      "email": null,
+      "web": "https://nysci.org/visit"
+    },
+    "tags": [
+      "science",
+      "museum",
+      "stem",
+      "physics"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages, under 18 with an adult",
+    "cost": 0,
+    "costText": "Free Fridays 2 to 5 pm, with a reservation",
+    "hours": {
+      "fri": [
+        [
+          "14:00",
+          "17:00"
+        ]
+      ]
+    },
+    "id": "nysci-free-fridays",
+    "name": "New York Hall of Science free Friday hours",
+    "type": "explore",
+    "address": "47-01 111th Street, Corona, NY 11368",
+    "lat": 40.74738,
+    "lng": -73.85161,
+    "neighborhood": "Corona",
+    "sourceUrl": "https://nysci.org/visit",
+    "whenText": null
+  },
+  {
+    "eligibility": "Open until 6 pm through October. November to March it closes at 4:30 pm. Closed Mondays.",
+    "join": "Walk in",
+    "contact": {
+      "phone": "718-886-3800",
+      "email": null,
+      "web": "https://queensbotanical.org/"
+    },
+    "tags": [
+      "garden",
+      "outdoors",
+      "quiet",
+      "biology"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": 0,
+    "ageMax": 99,
+    "ageText": "All ages",
+    "cost": 4,
+    "costText": "$4 with a student ID. Free from Dec 16 to Mar 31.",
+    "hours": {
+      "tue": [
+        [
+          "08:00",
+          "16:30"
+        ]
+      ],
+      "wed": [
+        [
+          "08:00",
+          "16:30"
+        ]
+      ],
+      "thu": [
+        [
+          "08:00",
+          "16:30"
+        ]
+      ],
+      "fri": [
+        [
+          "08:00",
+          "16:30"
+        ]
+      ],
+      "sat": [
+        [
+          "08:00",
+          "16:30"
+        ]
+      ],
+      "sun": [
+        [
+          "08:00",
+          "16:30"
+        ]
+      ]
+    },
+    "id": "queens-botanical",
+    "name": "Queens Botanical Garden",
+    "type": "explore",
+    "address": "43-50 Main Street, Flushing, NY 11355",
+    "lat": 40.74994,
+    "lng": -73.8284,
+    "neighborhood": "Flushing",
+    "sourceUrl": "https://queensbotanical.org/",
+    "whenText": null
+  },
+  {
+    "eligibility": "Membership gets you into every NYC Parks recreation center. Some classes cost extra.",
+    "join": "Bring the membership form and an ID (a student ID works) to the center",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "web": "https://www.nycgovparks.org/programs/recreation-centers/membership"
+    },
+    "tags": [
+      "sports",
+      "gym",
+      "basketball",
+      "fitness"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": null,
+    "ageMax": null,
+    "ageText": "Free under 18",
+    "cost": 0,
+    "costText": "Free membership for anyone under 18",
+    "hours": null,
+    "id": "lost-battalion",
+    "name": "Lost Battalion Hall Recreation Center",
+    "type": "explore",
+    "address": "93-29 Queens Boulevard, Rego Park, NY 11374",
+    "lat": 40.73182,
+    "lng": -73.8655,
+    "neighborhood": "Rego Park",
+    "sourceUrl": "https://www.nycgovparks.org/programs/recreation-centers/membership",
+    "whenText": null
+  },
+  {
+    "eligibility": "A year-long program: making art, giving exhibition tours, and running workshops. Counts toward school community service.",
+    "join": "Apply with the online form on the Queens Teens page",
+    "contact": {
+      "phone": null,
+      "email": "info@queensmuseum.org",
+      "web": "https://www.queensmuseum.org/queens-teens"
+    },
+    "tags": [
+      "art",
+      "paid",
+      "apprenticeship",
+      "community service"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": null,
+    "ageMax": null,
+    "ageText": "High school students",
+    "cost": 0,
+    "costText": "Free, and it is a paid apprenticeship",
+    "hours": null,
+    "id": "queens-teens",
+    "name": "Queens Teens at the Queens Museum",
+    "type": "workshop",
+    "address": "New York City Building, Flushing Meadows Corona Park, Queens, NY 11368",
+    "lat": 40.74587,
+    "lng": -73.84674,
+    "neighborhood": "Corona",
+    "whenText": "Saturday afternoons, all school year",
+    "sourceUrl": "https://www.queensmuseum.org/queens-teens"
+  },
+  {
+    "eligibility": "For people with disabilities.",
+    "join": "Register ahead on Eventbrite (linked from the museum page)",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "web": "https://queensmuseum.org/program/family-programs"
+    },
+    "tags": [
+      "art",
+      "accessible"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": null,
+    "ageMax": null,
+    "ageText": "Teens and adults",
+    "cost": 0,
+    "costText": "Free with registration",
+    "hours": null,
+    "id": "qm-open-studio",
+    "name": "Open Studio for Teens and Adults (ArtAccess)",
+    "type": "workshop",
+    "address": "New York City Building, Flushing Meadows Corona Park, Queens, NY 11368",
+    "lat": 40.74587,
+    "lng": -73.84674,
+    "neighborhood": "Corona",
+    "whenText": "First Saturday and Sunday of each month, 2 to 4 pm",
+    "sourceUrl": "https://queensmuseum.org/program/family-programs"
+  },
+  {
+    "eligibility": "New York City residents enrolled in a high school or college in the city. Explain science exhibits to visitors.",
+    "join": "Apply online from Dec 1 to Jan 2, or Apr 1 to May 1",
+    "contact": {
+      "phone": null,
+      "email": "ebautista@nysci.org",
+      "web": "https://nysci.org/become-a-nysci-explainer"
+    },
+    "tags": [
+      "science",
+      "stem",
+      "job",
+      "physics"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": null,
+    "ageMax": null,
+    "ageText": "High school and college students",
+    "cost": 0,
+    "costText": "Free to apply",
+    "hours": null,
+    "id": "nysci-explainer",
+    "name": "NYSCI Explainer (Science Career Ladder)",
+    "type": "jobs",
+    "address": "47-01 111th Street, Corona, NY 11368",
+    "lat": 40.74738,
+    "lng": -73.85161,
+    "neighborhood": "Corona",
+    "whenText": "High schoolers work at least 5 hours a week on weekends, for a full year",
+    "opens": "2026-12-01",
+    "deadline": "2027-01-02",
+    "sourceUrl": "https://nysci.org/become-a-nysci-explainer"
+  },
+  {
+    "eligibility": "NYC high school students. Pitch and lead your own workshop or project for other teens at a library branch, and earn community service hours.",
+    "join": "Fill out the online questionnaire. Fall applications close Oct 31; spring runs Feb 1 to 28.",
+    "contact": {
+      "phone": null,
+      "email": "volunteer@queenslibrary.org",
+      "web": "https://volunteer.queenslibrary.org/peer-to-peer-service-collective"
+    },
+    "tags": [
+      "community service",
+      "leadership",
+      "teaching"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": 14,
+    "ageMax": 17,
+    "ageText": "Ages 14 to 17, grades 9 to 12",
+    "cost": 0,
+    "costText": "Free",
+    "hours": null,
+    "id": "qpl-p2psc",
+    "name": "Peer-to-Peer Service Collective",
+    "type": "volunteering",
+    "online": true,
+    "address": "Online application. Programs run at Queens Library branches.",
+    "lat": null,
+    "lng": null,
+    "neighborhood": "Online",
+    "deadline": "2026-10-31",
+    "sourceUrl": "https://volunteer.queenslibrary.org/peer-to-peer-service-collective",
+    "whenText": null
+  },
+  {
+    "eligibility": "Teens 14 and older can apply any time of year. Under 14 only with a parent or guardian.",
+    "join": "Apply at volunteer.queenslibrary.org",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "web": "https://www.queenslibrary.org/programs-activities/teens/volunteer-job-opportunities"
+    },
+    "tags": [
+      "community service"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": 14,
+    "ageMax": null,
+    "ageText": "Ages 14 and up",
+    "cost": 0,
+    "costText": "Free",
+    "hours": null,
+    "id": "qpl-teen-volunteer",
+    "name": "Teen volunteering at Queens Public Library",
+    "type": "volunteering",
+    "online": true,
+    "address": "Apply online. Volunteer at a Queens Library branch.",
+    "lat": null,
+    "lng": null,
+    "neighborhood": "Online",
+    "sourceUrl": "https://www.queenslibrary.org/programs-activities/teens/volunteer-job-opportunities",
+    "whenText": null
+  },
+  {
+    "eligibility": "Welcomes high school and college groups. The garden matches you to an opening; filling out the form does not guarantee a spot.",
+    "join": "Fill out the volunteer contact form",
+    "contact": {
+      "phone": "718-886-3800",
+      "email": null,
+      "web": "https://queensbotanical.org/volunteer/"
+    },
+    "tags": [
+      "garden",
+      "outdoors",
+      "community service"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": null,
+    "ageMax": null,
+    "ageText": null,
+    "cost": 0,
+    "costText": "Free",
+    "hours": null,
+    "id": "qbg-volunteer",
+    "name": "Queens Botanical Garden volunteering",
+    "type": "volunteering",
+    "address": "43-50 Main Street, Flushing, NY 11355",
+    "lat": 40.74994,
+    "lng": -73.8284,
+    "neighborhood": "Flushing",
+    "sourceUrl": "https://queensbotanical.org/volunteer/",
+    "whenText": null
+  },
+  {
+    "eligibility": "Help with college essays, college lists, financial aid, and scholarships. Workshops run during the school year.",
+    "join": "Book a session online",
+    "contact": {
+      "phone": null,
+      "email": "college.readiness@queenslibrary.org",
+      "web": "https://www.queenslibrary.org/programs-activities/teens/college-and-career-readiness"
+    },
+    "tags": [
+      "college",
+      "essays",
+      "financial aid",
+      "scholarships",
+      "applications"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": null,
+    "ageMax": null,
+    "ageText": "Students and families",
+    "cost": 0,
+    "costText": "Free",
+    "hours": null,
+    "id": "flushing-college",
+    "name": "Free college coaching at Flushing Library Teen Center",
+    "type": "support",
+    "address": "41-17 Main Street, Flushing, NY 11355",
+    "lat": 40.75783,
+    "lng": -73.82886,
+    "neighborhood": "Flushing",
+    "whenText": "Book a one-on-one session online. Virtual sessions too.",
+    "sourceUrl": "https://www.queenslibrary.org/programs-activities/teens/college-and-career-readiness"
+  },
+  {
+    "eligibility": "Runs when school is in session. Help in English, math, science, and social studies, in about 10 languages including Spanish, Chinese, Bengali, and Korean.",
+    "join": "Call 212-777-3380, or use tutor.dialateacher.org",
+    "contact": {
+      "phone": "212-777-3380",
+      "email": null,
+      "web": "https://www.uft.org/dial-a-teacher"
+    },
+    "tags": [
+      "math",
+      "algebra",
+      "geometry",
+      "science",
+      "english",
+      "writing",
+      "history",
+      "homework"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": null,
+    "ageMax": null,
+    "ageText": "Grades K to 12",
+    "cost": 0,
+    "costText": "Free",
+    "hours": {
+      "mon": [
+        [
+          "16:00",
+          "19:00"
+        ]
+      ],
+      "tue": [
+        [
+          "16:00",
+          "19:00"
+        ]
+      ],
+      "wed": [
+        [
+          "16:00",
+          "19:00"
+        ]
+      ],
+      "thu": [
+        [
+          "16:00",
+          "19:00"
+        ]
+      ]
+    },
+    "id": "dial-a-teacher",
+    "name": "Dial-A-Teacher homework help",
+    "type": "tutoring",
+    "online": true,
+    "address": "By phone or online",
+    "lat": null,
+    "lng": null,
+    "neighborhood": "Online",
+    "sourceUrl": "https://www.uft.org/dial-a-teacher",
+    "whenText": null
+  },
+  {
+    "eligibility": null,
+    "join": "Open it from the library homework page. A library card may be needed.",
+    "contact": {
+      "phone": null,
+      "email": null,
+      "web": "https://www.queenslibrary.org/programs-activities/teens/homework-resources"
+    },
+    "tags": [
+      "math",
+      "science",
+      "physics",
+      "chemistry",
+      "english",
+      "writing",
+      "homework"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": null,
+    "ageMax": null,
+    "ageText": null,
+    "cost": null,
+    "costText": null,
+    "hours": {
+      "sun": [
+        [
+          "14:00",
+          "23:00"
+        ]
+      ],
+      "mon": [
+        [
+          "14:00",
+          "23:00"
+        ]
+      ],
+      "tue": [
+        [
+          "14:00",
+          "23:00"
+        ]
+      ],
+      "wed": [
+        [
+          "14:00",
+          "23:00"
+        ]
+      ],
+      "thu": [
+        [
+          "14:00",
+          "23:00"
+        ]
+      ],
+      "fri": [
+        [
+          "14:00",
+          "23:00"
+        ]
+      ],
+      "sat": [
+        [
+          "14:00",
+          "23:00"
+        ]
+      ]
+    },
+    "id": "brainfuse",
+    "name": "Live online tutoring (Brainfuse HelpNow)",
+    "type": "tutoring",
+    "online": true,
+    "address": "Online, through the Queens Public Library website",
+    "lat": null,
+    "lng": null,
+    "neighborhood": "Online",
+    "sourceUrl": "https://www.queenslibrary.org/programs-activities/teens/homework-resources",
+    "whenText": null
+  },
+  {
+    "eligibility": "Peer-led college help, creative arts and media, and organizing. Programs are bilingual.",
+    "join": "Call or visit the Corona office",
+    "contact": {
+      "phone": "718-565-8500",
+      "email": null,
+      "web": "https://maketheroadny.org/program/youth-and-school-programs/"
+    },
+    "tags": [
+      "college",
+      "arts",
+      "media",
+      "leadership",
+      "bilingual"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": null,
+    "ageMax": null,
+    "ageText": null,
+    "cost": null,
+    "costText": null,
+    "hours": null,
+    "id": "mrny-youth",
+    "name": "Youth Power Project at Make the Road New York",
+    "type": "support",
+    "address": "104-19 Roosevelt Avenue, Corona, NY 11368",
+    "lat": 40.7499,
+    "lng": -73.8616,
+    "neighborhood": "Corona",
+    "whenText": "After school, plus a six-week summer program",
+    "sourceUrl": "https://maketheroadny.org/program/youth-and-school-programs/"
+  },
+  {
+    "eligibility": "Musicians of all levels, any instrument, and singers. Or just come to listen.",
+    "join": "Get tickets on the jazz jam page",
+    "contact": {
+      "phone": "718-463-7700",
+      "email": null,
+      "web": "https://www.flushingtownhall.org/monthly-jazz-jams"
+    },
+    "tags": [
+      "jazz",
+      "music",
+      "perform",
+      "piano",
+      "sing"
+    ],
+    "lastChecked": "2026-10-26",
+    "sample": false,
+    "ageMin": null,
+    "ageMax": null,
+    "ageText": null,
+    "cost": null,
+    "costText": null,
+    "hours": null,
+    "id": "fth-jazz-jam",
+    "name": "Monthly Jazz Jam at Flushing Town Hall",
+    "type": "music",
+    "address": "137-35 Northern Boulevard, Flushing, NY 11354",
+    "lat": 40.76391,
+    "lng": -73.83007,
+    "neighborhood": "Flushing",
+    "whenText": "Next jams: Wednesday Nov 11 and Wednesday Dec 9, 2026",
+    "sourceUrl": "https://www.flushingtownhall.org/monthly-jazz-jams"
+  }
+]
